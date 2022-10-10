@@ -97,5 +97,11 @@ const styles = StyleSheet.create({
     width: 300,
     height: 300,
     resizeMode: "contain"
-  }
+  },
+  "splash": {
+    "image": "./assets/splash.png",
+    "resizeMode": "contain",
+    "backgroundColor": "#000000"
+  
+  },
 });
